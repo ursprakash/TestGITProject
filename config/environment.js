@@ -4,8 +4,8 @@ module.exports = function(environment) {
   var ENV = {
     modulePrefix: 'testember',
     environment: environment,
-    rootURL: '/EmberDemo',
-    baseURL: '/EmberDemo',
+    rootURL: '/EmberDemo/',
+    baseURL: '/EmberDemo/',
     locationType: 'hash',
     EmberENV: {
       FEATURES: {
